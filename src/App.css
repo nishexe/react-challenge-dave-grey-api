@@ -2,9 +2,19 @@ button {
   cursor: pointer;
   width: 100%;
   height: 40px;
+  border-radius: 16px;
 }
 .buttonsHeader {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+body {
+  background-color: #282828;
+}
+ul {
+  color: white;
+}
+li {
+  padding: 20px;
 }
